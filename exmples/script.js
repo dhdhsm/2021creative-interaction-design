@@ -48,7 +48,7 @@ function foreach(){var movie2 = ["Avengers", "Captain Marvel", "Black Panther", 
 movie2.forEach(function(i){
  alert(i);
 });}
-// 
+// 提示电影票是否剩余
 var movieDetails = [
 {title: "Avengers",
  time:"12pm",
